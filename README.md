@@ -35,7 +35,7 @@ Make sure you have Python installed
 ```sh
 $ git clone https://github.com/ChimbaLabs/hrops.git
 $ cd hrops
-$ python38 -m venv .venv
+$ python -m venv .venv
 $ .venv\Scripts\activate
 $ pip install -r requirements.txt
 $ python app.py
